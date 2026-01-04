@@ -32,4 +32,4 @@ public:
 };
 
 // time complexity-  O(n * √m)  before- O(n * m)
-// space complexity- O(1)
+// space complexity- O(1) (because divisor vector using constant space, i.e., 4 & not growing with the input size)
