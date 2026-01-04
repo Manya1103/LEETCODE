@@ -31,5 +31,5 @@ public:
     }
 };
 
-// time complexity-  O(n × √m)
+// time complexity-  O(n * √m)  before- O(n * m)
 // space complexity- O(1)
