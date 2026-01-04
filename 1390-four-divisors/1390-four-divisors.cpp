@@ -31,5 +31,7 @@ public:
     }
 };
 
-// time complexity-  O(n * √m)  before- O(n * m)
-// space complexity- O(1) (because divisor vector using constant space, i.e., 4 & not growing with the input size)
+/* time complexity-  O(n * √m)  before- O(n * m)
+space complexity- O(1) (because divisor vector using constant space, i.e., 4 & not growing with the input size)- auxiliary space complexity
+(The extra space (memory) used by an algorithm apart from the input to solve the problem.)
+we can do without using divisor vector also */
