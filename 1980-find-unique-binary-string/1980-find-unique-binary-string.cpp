@@ -17,4 +17,6 @@ public:
 cantor's diagonalization
 time complexity = O(n)
 space complexity = O(n)
+
+BRUTE FORCE - O(2^n)
 */
